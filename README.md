@@ -2,7 +2,7 @@
 
 <a target='_blank' href="https://giphy.com/gifs/newspaper-press-v2xIous7mnEYg"><img alt='Newspaper Printing (via GIPHY)' src="http://i.giphy.com/v2xIous7mnEYg.gif" /> <br><em>via GIPHY</em></a>
 
-A data visualization project for a major metro paper to:
+## A data visualization project for a major metro paper to:
 
 Analyzing the current trends shaping people's lives, as well as creating charts, graphs and interactives to help readers understand the findings.
 
