@@ -9,3 +9,6 @@ Analyzing the current trends shaping people's lives, as well as creating charts,
 Run a series of feature stories about the health risks facing particular demographics to sniff out the first story idea by sifting through the latest information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
 Lastly, result in a convincing correlation with scatter plot to visualize the data.
+
+### D3 Dabbler
+Find a correlation between two data variables, each measured state by state and taken from different data sources. Then visualize the correlation with a scatter plot and embed the graphic into an .html file.
