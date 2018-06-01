@@ -15,3 +15,4 @@ Find a correlation between two data variables, each measured state by state and 
 
 ## Data Source
 * [American FactFinder](http://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml)
+* [Behavioral Risk Factor Surveillance System](https://chronicdata.cdc.gov/Behavioral-Risk-Factors/BRFSS-2014-Overall/5ra3-ixqq)
