@@ -10,7 +10,6 @@ Run a series of feature stories about the health risks facing particular demogra
 
 Lastly, result in a convincing correlation with scatter plot to visualize the data.
 
-### D3 Dabbler
 ![alt text](https://raw.githubusercontent.com/david880110/Data-Journalism-and-D3/master/image/img.png)
 Find a correlation between two data variables, each measured state by state and taken from different data sources. Then visualize the correlation with a scatter plot and embed the graphic into an .html file.
 
